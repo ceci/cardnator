@@ -1,16 +1,27 @@
 .reveal h4 {
 	text-align: left;
-	font-family: 'Londrina Sketch', cursive;
+	font-family: 'Dancing Script', cursive;
 	font-size: 3em;
+	color:rgba(255, 255, 255, 0.4);
 }
 
 .reveal .explanation {
 	text-align: left;
 }
 
-.reveal .explanation h2 {
-	font-family: 'Londrina Sketch', cursive;
+.reveal .explanation div.side-by-side {
+	float: left;
+	margin-right: 2em;
+	width: 45%;
+}
+
+.reveal h2 {
+	font-weight: lighter;
 	margin-top: 20px;
+}
+
+.reveal .explanation h2 {
+	font-size: 1.5em;
 }
 
 .reveal .smaller {
@@ -32,7 +43,7 @@
 }
 
 .reveal .apagadinho {
-	color:rgba(255, 255, 255, 0.4)
+	color:rgba(255, 255, 255, 0.4);
 }
 
 /* Fonts */
