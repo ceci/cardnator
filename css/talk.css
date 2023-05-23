@@ -1,0 +1,44 @@
+.reveal h4 {
+	text-align: left;
+	font-family: 'Londrina Sketch', cursive;
+	font-size: 3em;
+}
+
+.reveal .explanation {
+	text-align: left;
+}
+
+.reveal .explanation h2 {
+	font-family: 'Londrina Sketch', cursive;
+	margin-top: 20px;
+}
+
+.reveal .smaller {
+	font-size: 70%;
+}
+
+.reveal .bigger {
+	font-size: 150%;
+	line-height: 1.5em;
+}
+
+/* Colors */
+.reveal .positive {
+	color: #22FF22;
+}
+
+.reveal .negative {
+	color: #FF3333;
+}
+
+.reveal .apagadinho {
+	color:rgba(255, 255, 255, 0.4)
+}
+
+/* Fonts */
+.reveal .cursive {
+	font-family: 'Dancing Script', cursive;
+}
+.reveal .attention {
+	font-family: 'Londrina Sketch', cursive;
+}
